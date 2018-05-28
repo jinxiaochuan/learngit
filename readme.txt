@@ -9,3 +9,6 @@ Git learn
 
 Git tracks changes of files.
 Git remote Repository.
+
+
+Creating a new branch is quick.
