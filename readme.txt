@@ -11,4 +11,4 @@ Git tracks changes of files.
 Git remote Repository.
 
 
-Creating a new branch is quick.
+Creating a new branch is quick with Git.
