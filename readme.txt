@@ -14,3 +14,7 @@ Git remote Repository.
 Creating a new branch is quick with Git.
 
 Creating a new branch is quick and simple.
+
+Git status ！！！！
+
+Git diff@@@@@
